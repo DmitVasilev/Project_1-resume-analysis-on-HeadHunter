@@ -54,7 +54,8 @@
 Образование и ВУЗ - уровень образования соискателя и наименование законченного учебного заведения;               
 Обновление резюме - дата и время последнего обновления резюме соискателем;             
 Авто - наличие у соискателя автомобиля.             
-Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1ikA_Ht45fXD2w5dWZ9sGTSRl-UNeCVub/view?usp=share_link)        
+Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1ikA_Ht45fXD2w5dWZ9sGTSRl-UNeCVub/view?usp=share_link)     
+Файл ExchangeRates.zip содержит сведенья о курсах валют.           
 :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)        
 
 
