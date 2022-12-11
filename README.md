@@ -60,8 +60,8 @@
 
 ## 4. Результат
 
-Ноутбук с решением: [Project_1.ipynb](https://github.com/Tio147/DS_1/blob/main/project_1/Project_1.ipynb).      
-Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/Project_1.ipynb).                
+Ноутбук с решением: [Project_1.ipynb](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/Project_1.ipynb).      
+Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/requirements.txt).                
 :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)         
 
 
