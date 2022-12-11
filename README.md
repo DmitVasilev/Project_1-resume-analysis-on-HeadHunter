@@ -1,18 +1,18 @@
-# <center>Project 1. Анализ резюме из HeadHunter<center> 
+# <center>Project 1. Анализ резюме из HeadHunter</center> 
 
 ## Содержание
 
-[1. Введение](https://github.com/Tio147/DS_1/tree/main/project_1#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)   
-[2. Описание задачи](https://github.com/Tio147/DS_1/tree/main/project_1#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
-[3. Описание данных](https://github.com/Tio147/DS_1/tree/main/project_1#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)         
-[4. Результат](https://github.com/Tio147/DS_1/tree/main/project_1#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)          
-[5. Выводы](https://github.com/Tio147/DS_1/tree/main/project_1#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)       
+[1. Введение](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#1-%D0%B2%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5)   
+[2. Описание задачи](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#2-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8)   
+[3. Описание данных](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#3-%D0%BE%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85)         
+[4. Результат](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#4-%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82)          
+[5. Выводы](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#5-%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)       
 
 
 ## 1. Введение
 
  Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе. Однако прежде чем построить модель, данные необходимо преобразовать, исследовать и очистить. В этом и заключается цель данного проекта!     
- :arrow_up:[in table of contents](https://github.com/Tio147/DS_1/tree/main/project_1#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
+ :arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
 
 
 ## 2. Описание задачи
@@ -35,7 +35,7 @@
 * Графики оформляются в соответствии с теми правилами, которые мы приводили в модуле по визуализации данных.
 * Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
 * Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.        
-:arrow_up:[in table of contents](https://github.com/Tio147/DS_1/tree/main/project_1#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)      
 
 
 ## 3. Описание данных
@@ -55,14 +55,14 @@
 Обновление резюме - дата и время последнего обновления резюме соискателем;             
 Авто - наличие у соискателя автомобиля.             
 Исходный датасет можно скачать по [ссылке](https://drive.google.com/file/d/1ikA_Ht45fXD2w5dWZ9sGTSRl-UNeCVub/view?usp=share_link)        
-:arrow_up:[in table of contents](https://github.com/Tio147/DS_1/tree/main/project_1#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)        
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)        
 
 
 ## 4. Результат
 
 Ноутбук с решением: [Project_1.ipynb](https://github.com/Tio147/DS_1/blob/main/project_1/Project_1.ipynb).      
-Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/Tio147/DS_1/blob/main/project_1/requirements.txt).                
-:arrow_up:[in table of contents](https://github.com/Tio147/DS_1/tree/main/project_1#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)         
+Для обеспечения воспроизводимости кода можно воспользоваться: [requirements.txt](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter/blob/master/Project_1.ipynb).                
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)         
 
 
 ## 5. Выводы
@@ -70,6 +70,6 @@
 В данном проекте была проведена работа по исследованию и очистке данных на примере датасета содержащего резюме соискателей с сайта поиска вакансий hh.ru.
 Было проведено преобразование данных путем формирования новых новых информативных признаков и удаления исходных, не несущих полезной информации. Выполнено исследование зависимостей в данных с использованием визуализации (бибилиотеки matplotlib, seaborn и plotly). Проведена очистка данных: удалены дублированные записи, проведена обработка пропусков в данных, ликвидированы выбросы.      
 Почта для обратной связи: vasilevdma82@gmail.com                 
-:arrow_up:[in table of contents](https://github.com/Tio147/DS_1/tree/main/project_1#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)   
+:arrow_up:[in table of contents](https://github.com/DmitVasilev/Project_1-resume-analysis-on-HeadHunter#%D1%81%D0%BE%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D0%B5)   
 
 
